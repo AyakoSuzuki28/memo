@@ -46,6 +46,5 @@
     }
 
     target.textContent = `最終更新日時：`;
-    localStorage.setItem('lastModified');
   });
 }
